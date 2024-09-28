@@ -1,4 +1,4 @@
-# Diamond-Pattern
+// Diamond-Pattern
 
 
 #include <stdio.h>
